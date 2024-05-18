@@ -1,0 +1,12 @@
+flowchart TD
+    A[Identify Hiring Need] --> B[Job Analysis and Job Description]
+    B --> C[Obtain Approvals]
+    C --> D[Post Job Opening]
+    D --> E[Receive and Review Applications]
+    E --> F[Conduct Initial Interviews]
+    F --> G[Assessment and Testing]
+    G --> H[Conduct Final Interviews]
+    H --> I[Perform Reference Checks]
+    I --> J[Make Job Offer]
+    J --> K[Onboarding]
+    K --> L[Feedback and Continuous Improvement]
